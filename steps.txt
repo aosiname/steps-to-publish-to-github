@@ -1,0 +1,4 @@
+1) create a directory on your pc and create file(s) in there
+2) change to the directory in git bash or shell
+3) git init
+4) git status - shows you 
