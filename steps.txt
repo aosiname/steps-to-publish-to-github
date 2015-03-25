@@ -14,4 +14,5 @@
 10) git remote add origin https://github.com/yourusername/your-new-repository-name
 11) git push -u origin master
 12) Excellent! I last saved on step 4. Now I have made changes!
-13) repeat steps: 4,5,6
+13) repeat steps: 4,5,6,7,11
+
