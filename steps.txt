@@ -1,4 +1,17 @@
 1) create a directory on your pc and create file(s) in there
 2) change to the directory in git bash or shell
 3) git init
-4) git status - shows you 
+4) git status 
+  - shows you files in red that are not on github
+5) git add . 
+  - git add all
+6) git status
+  - wow all green!
+7) git commit -m "initial commit"
+  - message doesnt have to say initial commit
+8) create repsitory https://github.com/new and dont tick initialise with readme
+9) copy the url to your repository on next page
+10) git remote add origin https://github.com/yourusername/your-new-repository-name
+11) git push -u origin master
+12) Excellent! I last saved on step 4. Now I have made changes!
+13) repeat steps: 4,5,6
